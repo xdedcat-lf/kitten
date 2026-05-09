@@ -42,3 +42,50 @@
         }
     ]
 }
+
+
+{
+    "urls": [
+        {
+            "url": "http://肥猫.com",
+            "name": "🚀01肥猫接口"
+        },
+        {
+            "url": "https://pastebin.com/raw/5NHaxyGR",
+            "name": "🚀02道长线路"
+        },
+        {
+            "url": "http://yydsys.top/duo/ali",
+            "name": "🚀03阿里精品"
+        },
+        {
+            "url": "https://gh.t4tv.hz.cz/newtang.bmp",
+            "name": "🚀04唐三接口"
+        },
+        {
+            "url": "https://gh-proxy.com/raw.githubusercontent.com//gaotianliuyun/gao/master/0827.json",
+            "name": "🚀05蜂蜜线路"
+        },
+        {
+            "url": "http://pandown.pro/tvbox/tvbox.json",
+            "name": "🚀06巧计线路"
+        },
+         {
+            "url": "http://tv.nxog.top/m/",
+            "name": "🚀07欧歌线路"
+        },
+        {
+            "url": "http://www.lyyytv.cn/yt/yt.json",
+            "name": "🚀08影探线路"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+            "name": "🚀09南风线路"
+        },
+        {
+            "url": "https://www.wya6.cn/tv/yc.json",
+            "name": "🚀10无意线路"
+        }   
+    ]
+}
+
