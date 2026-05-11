@@ -29,8 +29,8 @@
             "name": "🚀07NZK"
         },
         {
-            "url": "https://d.kstore.dev/download/12020/t4.json",
-            "name": "🚀08老猫迷"
+            "url": "https://raw.giteeusercontent.com/li-shengkai/qh/raw/master/1.json",
+            "name": "🚀08机缘宝盒"
         },
         {
             "url": "http://rihou.cc:88/demo.php",
@@ -208,8 +208,12 @@
             "name": "🚀52小苹果"
         },
         {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
+            "name": "🚀53网络收集1"
+        },
+        {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/bzr-zd/blr/main/不良帅.png",
-            "name": "🚀53不良帅线路"
+            "name": "🚀54不良帅线路"
         }   
     ]
 }
