@@ -1,8 +1,16 @@
 {
     "urls": [
         {
-            "url": "http://feimao.pro",
+            "url": "http://肥猫.net/tv",
             "name": "🚀01肥猫接口"
+        },  
+        {
+            "url": "http://肥猫.net/",
+            "name": "🚀01肥猫备一"
+        },   
+        {
+            "url": "http://hello.肥猫.net",
+            "name": "🚀01肥猫备二"
         },  
         {
             "url": "http://www.饭太硬.net/tv",
@@ -173,8 +181,36 @@
             "name": "🚀43酷云七七"
         },
         {
+            "url": "https://9xi4o.tk/0725.json",
+            "name": "🚀43酷云七七"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/easytv.jpg",
+            "name": "🚀44Easy 4K"
+        },
+        {
+            "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
+            "name": "🚀45少儿教育"
+        },
+        {
+            "url": "http://cdn.qiaoji8.com/tvbox.json",
+            "name": "🚀46巧技接口"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt",
+            "name": "🚀47多源接口"
+        },
+        {
+            "url": "https://gitee.com/blssss/jk/raw/api/bls.json",
+            "name": "🚀48玩偶接口"
+        },
+        {
+            "url": "http://xhztv.top/4k.json",
+            "name": "🚀49聚玩盒口"
+        },
+        {
             "url": "https://11405.kstore.space/xiaye/qk4k.json",
-            "name": "🚀44夏夏接口"
+            "name": "🚀50夏夏接口"
         }
     ]
 }
