@@ -1,39 +1,39 @@
 {
     "urls": [
         {
-            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json",
-            "name": "🚀01拾光线路"
+            "url": "https://fastly.jsdelivr.net/gh/liu673cn/box@main/m.json",
+            "name": "🚀01无名线路"
         },
         {
             "url": "https://play.iptv365.org/天天开心/api.json",
-            "名称": "🚀02天天开心"
+            "name": "🚀02天天开心"
         },
         {
-            "urls": "http://xhztv.top/4k.json",
-            "名称": "🚀03聚玩盒子"
+            "url": "http://xhztv.top/4k.json",
+            "name": "🚀03聚玩盒子"
         },
         {
             "url": "http://xclasvgas.sylu.net:8080/smt.php",
-            "名称": "🚀04月儿线路"
+            "name": "🚀04月儿线路"
         },
         {
             "url": "http://zhangqun1818.serv00.net/zq/api.json",
-            "名称": "🚀05张群线路"
+            "name": "🚀05张群线路"
         },
         {
             "url": "https://13537.kstore.vip/4K/4K.json",
-            "名称": "🚀06机哥4k线路"
+            "name": "🚀06机哥4k线路"
         },
          {
-            "url": "https://tv.蜗牛.top/svip"，
-            "名称": "🚀07蜗牛影视"
+            "url": "https://tv.蜗牛.top/svip",
+            "name": "🚀07蜗牛影视"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/liu673cn/box@main/m.json",
-            "名称": "🚀08颜如玉口"
+            "name": "🚀08颜如玉口"
         },
         {
-            "urls": "https://gitee.com/wynp/ys/raw/master/yc.json",
+            "url": "https://gitee.com/wynp/ys/raw/master/yc.json",
             "name": "🚀09如意线路"
         },
         {
@@ -196,7 +196,7 @@
             "name": "🚀49影探线路"
         },      
         {
-            "url": "https://gh-proxy.com/raw.githubusercontent.com//gaotianliuyun/gao/master/0827.json",
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json",
             "name": "🚀50蜂蜜线路"
         },      
         {
