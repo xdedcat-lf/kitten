@@ -2,306 +2,227 @@
     "urls": [
         {
             "url": "http://feimao.pro",
-            "name": "🚀01肥猫1"
+            "name": "🚀01肥猫接口"
         },  
         {
-            "url": "http://feimao.pro",
-            "name": "🚀01肥猫2"
-        },
-        {
-            "url": "http://www.饭太硬.com/tv/",
-            "name": "🚀02饭太硬1"
-        },
-        {
             "url": "http://www.饭太硬.net/tv",
-            "name": "🚀02饭太硬2"
+            "name": "🚀02饭太硬一"
         },
         {
             "url": "http://www.饭太硬.art/tv",
-            "name": "🚀02饭太硬3"
+            "name": "🚀03饭太硬二"
         },
         {
             "url": "http://fty.xxooo.cf/tv",
-            "name": "🚀02饭太硬4"
-        },
-        {
-            "url": "http://fty.888484.xyz/tv",
-            "name": "🚀02饭太硬5"
-        },
-        {
-            "url": "http://fty.333232.xyz/tv",
-            "name": "🚀02饭太硬6"
+            "name": "🚀04饭太硬三"
         },
         {
             "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
-            "name": "🚀03王二小"
+            "name": "🚀05王二小一"
         },
         {
             "url": "https://9280.kstore.vip/newwex.json",
-            "name": "🚀03王二小新1"
+            "name": "🚀06王二小二"
         }, 
         {
             "url": "https://9280.kstore.space/newwex.json",
-            "name": "🚀03王二小新2"
+            "name": "🚀07王二小三"
         },
         {
             "url": "http://47.96.82.41:5188/svip/svip.json",
-            "name": "🚀04软件小哥哥"
+            "name": "🚀08软件小哥"
         },
         {
             "url": "http://tv.nxog.top/m/",
-            "name": "🚀05欧歌"
+            "name": "🚀09欧歌接口"
         },
-        {
-            "url": "https://13537.kstore.vip/4K/4K.json",
-            "name": "🚀06机哥"
-        },
-        {
-            "url": "http://rihou.cc:555/nzk/nzk0722.json",
-            "name": "🚀07NZK"
-        },
-        {
+         {
             "url": "https://raw.giteeusercontent.com/li-shengkai/qh/raw/master/1.json",
-            "name": "🚀08机缘宝盒"
-        },
-        {
-            "url": "http://rihou.cc:88/demo.php",
-            "name": "🚀09VOX"
-        },
-        {
-            "url": "https://17264.kstore.space/哈基米1.png",
-            "name": "🚀10哈基米"
-        },
-        {
-            "url": "http://ok213.top/tv",
-            "name": "🚀11Ok杰克"
+            "name": "🚀10机缘宝盒"
         },
         {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tattoo/refs/heads/main/OK/okys.json",
-            "name": "🚀12林中小屋"
-        },
-        { 
-            "url": "http://cdn.qiaoji8.com/tvbox.json",
-            "name": "🚀13巧技"
-        },
-        {
-            "url": "http://我不是.摸鱼儿.com",
-            "name": "🚀14摸鱼1"
-        },
-        {
-            "url": "http://我不是.摸鱼儿.top",
-            "name": "🚀14摸鱼2"
-        },
-        {
-            "url": "http://www.小不点.com",
-            "name": "🚀14摸鱼3"
-        },
-        {
-            "url": "https://6800.kstore.vip/fish.json",
-            "name": "🚀14摸鱼4"
-        },
-        {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-            "name": "🚀15南风"
-        },
-        {
-            "url": "https://gitee.com/cpu-iy/iy/raw/master/天神IY.json",
-            "name": "🚀16天神"
-        },
-        {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
-            "name": "🚀17One"
-        },
-        {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
-            "name": "🚀18香雅晴"
-        },
-        {
-            "url": "https://9877.kstore.space/AnotherD/api.json",
-            "name": "🚀19潇洒"
+            "name": "🚀11林中小屋"
         },
         {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json",
-            "name": "🚀20拾光"
-        },
-        {
-            "url": "http://影视仓接口.top",
-            "name": "🚀21影视仓"
-        },
-        {
-            "url": "https://www.iyouhun.com/tv/mys",
-            "name": "🚀22喵影视"
-        },
-        {
-            "url": "https://fastly.jsdelivr.net/gh/liu673cn/box@main/m.json",
-            "name": "🚀23liu673cn"
+            "name": "🚀12拾光接口"
         },
         {
             "url": "http://154.36.173.40/tgyg/bbm.json",
-            "name": "🚀24幸福客家"
-        },{
+            "name": "🚀13幸福客家"
+        },
+        {
             "url": "http://fmys.top/fmys.json",
-            "name": "🚀25驸马影视"
+            "name": "🚀14驸马影视"
         },
         {
             "url": "https://盒子迷.top/禁止贩卖",
-            "name": "🚀26盒子迷"
+            "name": "🚀15盒子迷口"
         },
         {
             "url": "https://idw.xx.kg/github?key=xklm&path=data/zjysjk.json",
-            "name": "🚀27菠菜资源"
+            "name": "🚀16菠菜资源"
         },
         {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/jigedos/1024/master/jsm.json",
-            "name": "🚀28非凡小小"
+            "name": "🚀17非凡小小"
         },
         {
             "url": "https://api.hgyx.vip/hgyx.json",
-            "name": "🚀29Hg菠菜源"
+            "name": "🚀18菠菜接口"
         },
         {
             "url": "https://tv.菜妮丝.top",
-            "name": "🚀30菜妮丝"
+            "name": "🚀19菜妮丝口"
+        }, 
+        {
+            "url": "http://影视仓接口.top",
+            "name": "🚀20影视仓口"
         },
         {
-            "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json",
-            "name": "🚀31noimank"
+            "url": "https://www.iyouhun.com/tv/mys",
+            "name": "🚀21喵影视口"
+        },        
+        {
+            "url": "http://rihou.cc:555/nzk/nzk0722.json",
+            "name": "🚀22NZK接口"
         },
         {
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/letian1650/mybox/main/m.json",
-            "name": "🚀32letian1650"
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/xiaosa/api.json",
+            "name": "🚀23潇洒接口"
         },
         {
-            "url": "https://gitee.com/senno/tvbox/raw/master/api.json",
-            "name": "🚀33优选"
+            "url": "https://17264.kstore.space/哈基米1.png",
+            "name": "🚀24哈基米口"
         },
         {
-            "url": "https://chuanshuo.77blog.cn/tv.json",
-            "name": "🚀34传说"
+            "url": "http://api.fumilong.com/%E7%93%9C%E5%AD%90.json",
+            "name": "🚀25瓜子接口"
+        },
+        { 
+            "url": "https://13413.kstore.vip/tv/changqing.json",
+            "name": "🚀26科技长青"
         },
         {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
-            "name": "🚀35高天流云"
+            "url": "https://gitee.com/cpu-iy/iy/raw/master/%E5%A4%A9%E7%A5%9EIY.json",
+            "name": "🚀27天成接口"
         },
         {
-            "url": "https://13537.kstore.vip/tvbox/test.json",
-            "name": "🚀36苍蓝"
-        },
-        {
-            "url": "https://cyao2q.github.io/files/n.json",
-            "name": "🚀37不会唱歌的鱼妖"
-        },
-        {
-            "url": "http://宝盒接口.top",
-            "name": "🚀38宝盒接口"
-        },
-        {
-            "url": "http://mido.ittun.com/bh/box.json",
-            "name": "🚀39Mido影视"
-        },
-        {
-            "url": "https://9xi4o.tk/0725.json",
-            "name": "🚀40酷云七七"
-        },
-        {
-            "url": "https://gitee.com/lufeisuolong/918/raw/master/fm.json",
-            "name": "🚀41初心"
-        },
-        {
-            "url": "https://11405.kstore.space/xiaye/qk4k.json",
-            "name": "🚀42夏夏"
-        },
-        {
-            "url": "https://6492.kstore.space/xnf/xnf.json",
-            "name": "🚀43小脑斧"
-        },
-        {
-            "url": "https://play.iptv365.org/PG/api.json",
-            "name": "🚀44PG线路"
-        },
-        {
-            "url": "http://7337.kstore.space/qxys/禁止传播.json",
-            "name": "🚀45七星影仓"
-        },
-        {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/pg/jsm.json",
-            "name": "🚀46其人之道"
-        },
-        {
-            "url": "https://gh-proxy.com/https://github.com/1115501230/laoyutvjson/blob/main/yqx.json",
-            "name": "🚀47御清弦"
+            "url": "https://gitee.com/wei-shang-xiang-restaurant_0/lib/raw/master/星3.json",
+            "name": "🚀28星星接口"
         },
         {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/ysj.json",
-            "name": "🚀48荷城"
+            "name": "🚀29荷城茶秀"
         },
         {
-            "url": "https://mitvbox.xyz/小米/DEMO.json",
-            "name": "🚀49小米"
-        },      
-        {
-            "url": "https://18189.kstore.space/高兴/高兴.php",
-            "name": "🚀50高兴"
-        },      
-        {
-            "url": "https://jianhancloud.cn/lcys/lcjk.json",
-            "name": "🚀51陆城影视"
-        },     
-        {
-            "url": "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json",
-            "name": "🚀52小苹果"
+            "url": "https://xn--zq2ao005e.u.xn--dkw.xn--6qq986b3xl/apia.php?id=2",
+            "name": "🚀30讴歌接口"
         },
         {
-            "url": "https://wp.kayyw.com/f/MllRc6/%E6%80%BB%E6%9C%89%E5%88%81%E6%B0%91%E6%83%B3%E5%AE%B3%E6%9C%95.json",
-            "name": "🚀53总有刁民想害朕"
-        },     
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+            "name": "🚀31南风接口"
+        },
         {
-            "url": "http://fmys.top/fmys.json",
-            "name": "🚀55驸马影视"
-        },    
+            "url": "https://gitee.com/cpu-iy/iy/raw/master/天神IY.json",
+            "name": "🚀32天神接口"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
+            "name": "🚀44One接口"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+            "name": "🚀34香雅晴口"
+        },
+        {
+            "url": "https://fastly.jsdelivr.net/gh/liu673cn/box@main/m.json",
+            "name": "🚀35liu673cn"
+        },
+        {
+            "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json",
+            "name": "🚀36noimank"
+        },
         {
             "url": "https://gh-proxy.com/raw.githubusercontent.com/letian1650/mybox/main/m.json",
-            "name": "🚀56letian1650"
-        },    
-        {
-            "url": "https://chuanshuo.77blog.cn/tv.json",
-            "name": "🚀57传说"
-        },    
-        {
-            "url": "https://tv.sxi.qzz.io/jsm.json",
-            "name": "🚀58JSM"
-        },    
-        {
-            "url": "http://mido.ittun.com/bh/box.json",
-            "name": "🚀59mido"
-        },    
-        {
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/zheng197600/tvbox/main/0820.json",
-            "name": "🚀60zheng197600"
-        },    
-        {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tomorrow/master/tvbox.json",
-            "name": "🚀61tushen6"
-        },   
-        {
-            "url": "https://11405.kstore.space/xiaye/qk4k.json",
-            "name": "🚀62xiaye"
-        },    
-        {
-            "url": "http://xclasvgas.sylu.net:8080/smt.php",
-            "name": "🚀63月儿影视"
-        },   
-        {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/catcr.json",
-            "name": "🚀64supermeguo"
-        },    
-        {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
-            "name": "🚀65网络收集"
+            "name": "🚀37letian1650"
         },
         {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/bzr-zd/blr/main/不良帅.png",
-            "name": "🚀66不良帅线路"
+            "url": "https://chuanshuo.77blog.cn/tv.json",
+            "name": "🚀38传说接口"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+            "name": "🚀39高天流云"
+        },
+        {
+            "url": "https://13537.kstore.vip/tvbox/test.json",
+            "name": "🚀40苍蓝接口"
+        },
+        {
+            "url": "https://cyao2q.github.io/files/n.json",
+            "name": "🚀41鱼妖接口"
+        },
+        {
+            "url": "http://宝盒接口.top",
+            "name": "🚀42宝盒接口"
+        },
+        {
+            "url": "https://9xi4o.tk/0725.json",
+            "name": "🚀43酷云七七"
+        },
+        {
+            "url": "https://11405.kstore.space/xiaye/qk4k.json",
+            "name": "🚀44夏夏接口"
+        },
+        {
+            "url": "",
+            "name": "🚀43"
+        },
+        {
+            "url": "",
+            "name": "🚀44"
+        },
+        {
+            "url": "",
+            "name": "🚀45"
+        },
+        {
+            "url": "",
+            "name": "🚀46"
+        },
+        {
+            "url": "",
+            "name": "🚀47"
+        },
+        {
+            "url": "",
+            "name": "🚀48"
+        },
+        {
+            "url": "",
+            "name": "🚀49"
+        },      
+        {
+            "url": "",
+            "name": "🚀50"
+        },      
+        {
+            "url": "",
+            "name": "🚀51"
+        },     
+        {
+            "url": "",
+            "name": "🚀52"
+        },
+        {
+            "url": "",
+            "name": "🚀53"
+        },     
+        {
+            "url": "",
+            "name": "🚀66"
         }   
     ]
 }
