@@ -6,34 +6,34 @@
         },
         {
             "url": "https://play.iptv365.org/天天开心/api.json",
-            "name": "🚀02天天开心"
+            "名称": "🚀02天天开心"
         },
         {
-            "url": "http://xhztv.top/4k.json",
-            "name": "🚀03聚玩盒子"
+            "urls": "http://xhztv.top/4k.json",
+            "名称": "🚀03聚玩盒子"
         },
         {
             "url": "http://xclasvgas.sylu.net:8080/smt.php",
-            "name": "🚀04月儿线路"
+            "名称": "🚀04月儿线路"
         },
         {
             "url": "http://zhangqun1818.serv00.net/zq/api.json",
-            "name": "🚀05张群线路"
+            "名称": "🚀05张群线路"
         },
         {
             "url": "https://13537.kstore.vip/4K/4K.json",
-            "name": "🚀06机哥4k线路"
+            "名称": "🚀06机哥4k线路"
         },
          {
-            "url": "https://tv.蜗牛.top/svip",
-            "name": "🚀07蜗牛影视"
+            "url": "https://tv.蜗牛.top/svip"
+            "名称": "🚀07蜗牛影视"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/liu673cn/box@main/m.json",
-            "name": "🚀08颜如玉"
+            "名称": "🚀08颜如玉口"
         },
         {
-            "url": "https://gitee.com/wynp/ys/raw/master/yc.json",
+            "urls": "https://gitee.com/wynp/ys/raw/master/yc.json",
             "name": "🚀09如意线路"
         },
         {
@@ -46,7 +46,7 @@
         },
         {
             "url": "http://cnmb.cc.cd/jk/xnf.json",
-            "name": "🚀12老虎-小脑斧"
+            "name": "🚀12小脑斧口"
         },
         { 
             "url": "https://jihulab.com/jyqhkd/kd/-/raw/main/kai.json",
@@ -59,8 +59,8 @@
         {
             "url": "https://gitee.com/blssss/jk/raw/api/bls.json",
             "name": "🚀15玩偶线路"
-        },
-        {
+            "url": "https://play.iptv365.org/天天开心/api.json",
+    "urls": [
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
             "name": "🚀16leevi0709"
         },
@@ -97,12 +97,12 @@
             "name": "🚀24BoxRes"
         },{
             "url": "https://tv.203511.xyz/0821.json",
-            "name": "🚀25无名1"
+            "name": "🚀25无名线路"
         },
         {
             "url": "http://xn--ihqu10cn4c.xn--v4q818bf34b.com/
 ",
-            "name": "🚀26无名2"
+            "name": "🚀26无名线路"
         },
         {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tomorrow/master/tvbox.json",
@@ -146,7 +146,7 @@
         },
         {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/wujiangliu/live-sources/main/%E7%94%B5%E8%A7%86%E5%AE%B6.m3u",
-            "name": "🚀37电视家"
+            "name": "🚀37电视家口"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/liu673cn/box@main/m.json",
@@ -154,7 +154,7 @@
         },
         {
             "url": "https://www.iyouhun.com/tv/mys",
-            "name": "🚀39喵影视"
+            "name": "🚀39喵影视口"
         },
         {
             "url": "https://www.yingm.cc/dm/dm.json",
@@ -162,11 +162,11 @@
         },
         {
             "url": "https://2938.kstore.space/json/ziyong.json",
-            "name": "🚀41收集1"
+            "name": "🚀41收集接口"
         },
         {
             "url": "https://gitee.com/cpu-iy/iy/raw/master/天神IY.json",
-            "name": "🚀42天神IY"
+            "name": "🚀42天神接口"
         },
         {
             "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
@@ -174,15 +174,15 @@
         },
         {
             "url": "https://700sjro44343.vicp.fun/eggp/qzku/tv.json",
-            "name": "🚀44茄子库"
+            "name": "🚀44茄子库口"
         },
         {
             "url": "https://raw.liucn.cc/box/m.json",
-            "name": "🚀45刘备"
+            "name": "🚀45刘备线路"
         },
         {
             "url": "https://chuanshuo.77blog.cn/api/峰儿.json",
-            "name": "🚀46峰儿"
+            "name": "🚀46峰儿线路"
         },
         {
             "url": "https://d.kstore.dev/download/15352/mj1.json",
