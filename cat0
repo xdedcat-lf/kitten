@@ -11,18 +11,22 @@
         {
             "url": "http://hello.肥猫.net",
             "name": "🚀01肥猫备二"
-        },  
+        }, 
         {
-            "url": "http://www.饭太硬.net/tv",
+            "url": "http://xhztv.top/dc/饭太硬/api.json",
             "name": "🚀02饭太硬一"
         },
         {
-            "url": "http://www.饭太硬.art/tv",
+            "url": "http://www.饭太硬.net/tv",
             "name": "🚀02饭太硬二"
         },
         {
-            "url": "http://fty.xxooo.cf/tv",
+            "url": "http://www.饭太硬.art/tv",
             "name": "🚀02饭太硬三"
+        },
+        {
+            "url": "http://fty.xxooo.cf/tv",
+            "name": "🚀02饭太硬四"
         },
         {
             "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
@@ -46,7 +50,7 @@
         },
         {
             "url": "https://6800.kstore.vip/fish.json",
-            "name": "🚀04摸鱼儿三"
+            "name": "🚀04凯速备用"
         },
         {
             "url": "http://47.96.82.41:5188/svip/svip.json",
