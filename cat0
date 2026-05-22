@@ -253,8 +253,16 @@
             "name": "🚀54未知接口"
         },
         {
+            "url": "https://tv.520993.xyz/candymuj1.json",
+            "name": "🚀55CandyMuj接口"
+        },
+        {
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/vcloudc/tvbox/main/tw/api.json",
+            "name": "🚀56vcloudc接口"
+        },
+        {
             "url": "https://11405.kstore.space/xiaye/qk4k.json",
-            "name": "🚀55夏夏接口"
+            "name": "🚀57夏夏接口"
         }
     ]
 }
