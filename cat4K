@@ -2,11 +2,11 @@
     "urls": [
         {
             "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
-            "name": "🚀01王二小 4K"
+            "name": "🚀01二小 4K"
         },
         {
             "url": "https://9280.kstore.vip/newwex.json",
-            "name": "🚀01王二小 4K"
+            "name": "🚀01二小 4K"
         }, 
         {
             "url": "https://pan.szfx.top/down.php/daee0d2b5ddbe2de5b2639fe1273b247.json",
@@ -49,8 +49,8 @@
             "name": "🚀11月儿 4K"
         }, 
         {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/wujiangliu/live-sources/main/%E7%94%B5%E8%A7%86%E5%AE%B6.m3u",
-            "name": "🚀12电视家 TV"
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json",
+            "name": "🚀12拾光线路"
         }, 
         {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/X.json",
@@ -329,20 +329,16 @@
             "name": "🚀81墨北备用"
         }, 
         {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json",
-            "name": "🚀82拾光线路"
-        }, 
-        {
             "url": "http://mido.ittun.com/bh/box.json",
-            "name": "🚀83mido影视"
+            "name": "🚀82mido影视"
         }, 
         {
             "url": "https://tv.sxi.qzz.io/jsm.json",
-            "name": "🚀84未知接口"
+            "name": "🚀83未知接口"
         }, 
         {
             "url": "https://d.kstore.dev/download/14505/%E5%A4%A9%E7%A5%9EIY.json",
-            "name": "🚀85天神接口"
+            "name": "🚀84天神接口"
         }
     ]
 }
