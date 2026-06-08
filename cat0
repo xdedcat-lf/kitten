@@ -125,7 +125,7 @@
             "name": "🚀22NZK接口"
         },
         {
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/xiaosa/api.json",
+            "url": "https://9877.kstore.space/ONE/one.json",
             "name": "🚀23潇洒接口"
         },
         {
@@ -261,8 +261,32 @@
             "name": "🚀56vcloudc接口"
         },
         {
+            "url": "https://d.kstore.dev/download/4684/hgrc.json",
+            "name": "🚀57蓝色影视"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt",
+            "name": "🚀58多源 TV"
+        },
+        {
+            "url": "https://tv.anbox.ip-ddns.com/live20",
+            "name": "🚀59央卫4 TV"
+        },
+        {
+            "url": "http://wangziduoqing.com/yuan/zb.txt",
+            "name": "🚀60央卫3 TV"
+        },
+        {
+            "url": "https://fastly.jsdelivr.net/gh/ls125781003/dmtg@master/zy.json",
+            "name": "🚀61央卫2 TV"
+        },
+        {
+            "url": "https://mpimg.cn/down.php/8f4d44220555d8090879cb45224b861e.txt",
+            "name": "🚀62央卫1 TV"
+        },
+        {
             "url": "https://11405.kstore.space/xiaye/qk4k.json",
-            "name": "🚀57夏夏接口"
+            "name": "🚀63夏夏接口"
         }
     ]
 }
