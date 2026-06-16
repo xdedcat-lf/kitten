@@ -1,8 +1,9 @@
+
 {
     "urls": [
         {
             "url": "http://肥猫.net/tv",
-            "name": "🚀01肥猫接口"
+            "name": "🚀01肥猫主一"
         },  
         {
             "url": "http://肥猫.net/",
@@ -57,8 +58,8 @@
             "name": "🚀05软件小哥"
         },
         {
-            "url": "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json",
-            "name": "🚀06小苹果口"
+            "url": "https://wp.kayyw.com/f/B08Bu8/%E9%A3%8E%E4%B9%8B%E7%8E%B2.json",
+            "name": "🚀06刁民接口"
         },
         {
             "url": "http://ficfac.com/ijia/app.json",
@@ -313,8 +314,128 @@
             "name": "🚀69无名接口"
         }, 
         {
+            "url": "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json",
+            "name": "🚀70小苹果口"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/zqs1qiwan/laobaitv/refs/heads/main/test/test/tvbox/laobaitvbox.json",
+            "name": "🚀71老白TVBOX"
+        }, 
+        {
+            "url": "http://zhangqun1818.serv00.net/zq/api.json",
+            "name": "🚀72张群接口"
+        }, 
+        {
+            "url": "http://yydsok.com/api/bendi/yydsapi/ff/api.json",
+            "name": "🚀73扶风接口"
+        }, 
+        {
+            "url": "http://yydsok.com/api/bendi/yydsapi/nf/api.json",
+            "name": "🚀74农夫接口"
+        }, 
+        {
+            "url": "http://yydsok.com/api/bendi/yydsapi/og/api.json",
+            "name": "🚀75喔咕接口"
+        }, 
+        {
+            "url": "http://yydsok.com/api/bendi/yydsapi/feim/api.json",
+            "name": "🚀76飞马接口"
+        }, 
+        {
+            "url": "https://d.kstore.dev/download/4071/api/api.json",
+            "name": "🚀77多咪接口"
+        }, 
+        {
+            "url": "https://jsd.cdn.zzko.cn/gh/ls125781003/dmtg@master/zy.json",
+            "name": "🚀78松竹接口"
+        }, 
+        {
+            "url": "https://fastly.jsdelivr.net/gh/ls125781003/dmtg@master/zy.json",
+            "name": "🚀79裹柳接口"
+        }, 
+        {
+            "url": "https://cyuan.netlify.app/zy-player/sites2.json",
+            "name": "🚀80ZY接口"
+        }, 
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json",
+            "name": "🚀81恒星接口"
+        }, 
+        {
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json",
+            "name": "🚀82时光接口"
+        }, 
+        {
+            "url": "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json",
+            "name": "🚀83喵影视接口"
+        }, 
+        {
+            "url": "https://clun.top/box.json",
+            "name": "🚀84Clun接口"
+        }, 
+        {
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/leevi0709/one/main/jsm.json",
+            "name": "🚀85多多接口"
+        }, 
+        {
+            "url": "https://chuanshuo.77blog.cn/tv.json",
+            "name": "🚀86心魔接口"
+        }, 
+        {
+            "url": "http://hucongrong.web3v.work/风水/fxz/fxz.json",
+            "name": "🚀87分享者接口"
+        }, 
+        {
+            "url": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjys.free.json",
+            "name": "🚀88黄金接口"
+        }, 
+        {
+            "url": "https://cnb.cool/fish2018/zx/-/git/raw/master/FongMi.json",
+            "name": "🚀89真訫接口"
+        }, 
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/lemj.json",
+            "name": "🚀90雷霆接口"
+        }, 
+        {
+            "url": "https://jihulab.com/jyqhkd/kd/-/raw/main/kai.json",
+            "name": "🚀91小凯接口"
+        }, 
+        {
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/hanhan8127/TVBox/main/hanXC.json",
+            "name": "🚀92胜寒接口"
+        }, 
+        {
+            "url": "https://tvbox.pgjgr.eu.cc/",
+            "name": "🚀93未知接口"
+        }, 
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json",
+            "name": "🚀94无公众号"
+        }, 
+        {
+            "url": "https://chigua.eu.org",
+            "name": "🚀95东篱接口"
+        }, 
+        {
+            "url": "https://raw.giteeusercontent.com/hulanlu/04/raw/master/lanlu.json",
+            "name": "🚀96澜露接口"
+        }, 
+        {
+            "url": "http://mytv6688.xyz/aowu/config.webp",
+            "name": "🚀97嗷呜接口"
+        }, 
+        {
+            "url": "https://api.hgyx.vip/hgyx.json",
+            "name": "🚀98HG 接口"
+        }, 
+        {
+            "url": "https://clun.top/box.json",
+            "name": "🚀99clun 接口"
+        }, 
+        {
             "url": "https://11405.kstore.space/xiaye/qk4k.json",
-            "name": "🚀70夏夏接口"
+            "name": "🚀100夏夏接口"
         }
     ]
 }
