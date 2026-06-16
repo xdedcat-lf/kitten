@@ -60,7 +60,7 @@
             "url": "https://gitee.com/blssss/jk/raw/api/bls.json",
             "name": "🚀15玩偶线路"
         },
-       {
+        {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
             "name": "🚀16leevi0709"
         },
@@ -312,7 +312,7 @@
             "url": "https://cnb.cool/fish2018/duanju/-/git/raw/main/tvbox.json",
             "name": "🚀78短剧接口"
         }, 
-       {
+        {
             "url": "http://live.shqsy.com/qstv.json",
             "name": "🚀79秋水接口"
         }, 
@@ -363,7 +363,7 @@
         {
             "url": "https://d.kstore.dev/download/14505/%E5%A4%A9%E7%A5%9EIY.json",
             "name": "🚀91天神接口"
-        }
+        },
         {
             "url": "https://gh.t4tv.hz.cz/newtang.bmp",
             "name": "🚀92唐三接口"
