@@ -197,8 +197,32 @@
             "name": "🚀49duomv盒口"
         },
         {
+            "url": "https://tv.sxi.qzz.io/jsm.json",
+            "name": "🚀50jsm接口"
+        },
+        {
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/zheng197600/tvbox/main/0820.json",
+            "name": "🚀51zheng197600接口"
+        },
+        {
+            "url": "https://play.iptv365.org/PG/api.json",
+            "name": "🚀52PG接口"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/catcr.json",
+            "name": "🚀53supermeguo接口"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
+            "name": "🚀54leevi0709接口"
+        },
+        {
+            "url": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/flapi.json",
+            "name": "🚀55luotao接口"
+        },
+        {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt",
-            "name": "🚀50多源TV"
+            "name": "🚀56多源TV"
         }
     ]
 }
