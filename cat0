@@ -6,11 +6,11 @@
         },  
         {
             "url": "http://肥猫.net/",
-            "name": "🚀01肥猫备一"
+            "name": "🚀01肥猫主二"
         },   
         {
             "url": "http://hello.肥猫.net",
-            "name": "🚀01肥猫备二"
+            "name": "🚀01肥猫主三"
         }, 
         {
             "url": "http://xhztv.top/dc/饭太硬/api.json",
@@ -41,16 +41,24 @@
             "name": "🚀03王二小三"
         },
         {
-            "url": "http://我不是.摸鱼儿.top",
+            "url": "http://摸鱼儿.cc",
             "name": "🚀04摸鱼儿一"
         },
         {
-            "url": "http://www.小不点.com",
+            "url": "http://我不是.摸鱼儿.cc",
             "name": "🚀04摸鱼儿二"
         },
         {
+            "url": "http://我不是.摸鱼儿.top",
+            "name": "🚀04摸鱼儿三"
+        },
+        {
+            "url": "http://www.小不点.com",
+            "name": "🚀04摸鱼儿四"
+        },
+        {
             "url": "https://6800.kstore.vip/fish.json",
-            "name": "🚀04凯速备用"
+            "name": "🚀04摸鱼凯速"
         },
         {
             "url": "http://47.96.82.41:5188/svip/svip.json",
@@ -91,38 +99,6 @@
         {
             "url": "http://bobohome.ignorelist.com:20247/🐅",
             "name": "🚀14潇洒接口"
-        },
-        {
-            "url": "http://ficfac.com/ijia/app.json",
-            "name": "🚀07一哥接口"
-        },
-        {
-            "url": "http://xhztv.top/dc/%E5%B0%8F%E9%B1%BC%E5%B9%B2/api.json",
-            "name": "🚀08小鱼干口"
-        },
-        {
-            "url": "https://700sjro44343.vicp.fun/eggp/qzku/tv.json",
-            "name": "🚀09茄子库口"
-        },
-         {
-            "url": "https://raw.giteeusercontent.com/li-shengkai/qh/raw/master/1.json",
-            "name": "🚀10机缘宝盒"
-        },
-        {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tattoo/refs/heads/main/OK/okys.json",
-            "name": "🚀11林中小屋"
-        },
-        {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json",
-            "name": "🚀12拾光接口"
-        },
-        {
-            "url": "http://154.36.173.40/tgyg/bbm.json",
-            "name": "🚀13幸福客家"
-        },
-        {
-            "url": "http://fmys.top/fmys.json",
-            "name": "🚀14驸马影视"
         },
         {
             "url": "https://盒子迷.top/禁止贩卖",
