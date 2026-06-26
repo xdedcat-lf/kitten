@@ -213,8 +213,12 @@
             "name": "🚀53luotao接口"
         },
         {
+            "url": "https://tv.cc0cd.cc.cd/",
+            "name": "🚀54未知接口"
+        },
+        {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt",
-            "name": "🚀54多源TV"
+            "name": "🚀55多源TV"
         }
     ]
 }
