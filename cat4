@@ -1,16 +1,104 @@
 {
     "urls": [
         {
-            "url": "http://box.ufuzi.com/tv/qq/短剧频道/api.json",
-            "name": "🚀01短剧频道"
+            "url": "http://47.120.41.246:8025/vip/2501/vip/tv.php",
+            "name": "🚀01OK VIP"
+        },
+        {
+            "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json",
+            "name": "🚀02健康接口"
+        },
+        {
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/letian1650/mybox/main/m.json",
+            "name": "🚀03豆瓣接口"
+        },
+        {
+            "url": "https://www.jianguoyun.com/p/De2Xt9gQv8z-DRiC1JoGIAA",
+            "name": "🚀04大人接口"
+        },
+        {
+            "url": "https://tv.sxi.qzz.io/jsm.json",
+            "name": "🚀05TVBOX多接口"
+        },
+        {
+            "url": "http://mido.ittun.com/bh/box.json",
+            "name": "🚀06Mido影视接口"
+        },
+        { 
+            "url": "https://dxawi.github.io/0/0.json",
+            "name": "🚀07DXAWI接口"
+        },
+        { 
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/zheng197600/tvbox/main/0820.json",
+            "name": "🚀08豆瓣爬虫接口"
+        },
+        { 
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tomorrow/master/tvbox.json",
+            "name": "🚀09胖牛接口"
+        },
+        { 
+            "url": "https://8815.kstore.vip/tvbox/Ace",
+            "name": "🚀10随心小屋接口"
+        },
+        { 
+            "url": "https://pan.quark.cn/s/5015ef2fce69",
+            "name": "🚀11全球TV接口"
+        },
+        { 
+            "url": "http://7337.kstore.space/qxys/%E7%A6%81%E6%AD%A2%E4%BC%A0%E6%92%AD.json",
+            "name": "🚀12天微接口"
+        },
+        { 
+            "url": "https://tv.203511.xyz/0821.json",
+            "name": "🚀13医工接口"
+        },
+        { 
+            "url": "http://m3.687166.xyz/aaaa.json",
+            "name": "🚀14小鱼接口"
+        },
+        { 
+            "url": "https://tv.蜗牛.top/svip",
+            "name": "🚀15蜗牛接口"
+        },
+        { 
+            "url": "http://mzrjk.top/戏曲",
+            "name": "🚀16戏曲接口"
+        },
+        { 
+            "url": "http://mzrjk.top/音乐",
+            "name": "🚀17音乐接口"
+        },
+        { 
+            "url": "https://jihulab.com/bhjk1/vip/-/raw/main/vip.json",
+            "name": "🚀18教育接口1"
+        },
+        { 
+            "url": "http://box.nihaohezi.com/app/hzjy.json",
+            "name": "🚀19教育接口2"
+        },
+        { 
+            "url": "https://cnb.cool/cnlv/tv/-/git/raw/main/20000.json ",
+            "name": "🚀20平安接口"
+        },
+        { 
+            "url": "https://8492.kstore.space/超玩家影视仓库/影视线路/fty/ncwj",
+            "name": "🚀21超玩家影视仓库"
+        },
+        { 
+            "url": "http://nn.4688888.xyz/common.json",
+            "name": "🚀22未知接口"
+        },
+        { 
+            "url": "",
+            "name": "🚀23"
+        },
+        { 
+            "url": "",
+            "name": "🚀24"
         },
         {
             "url": "",
-            "name": "🚀01"
-        }, 
-        {
-            "url": "",
-            "name": "🚀22"
+            "name": "🚀25"
         }
     ]
 }
