@@ -397,9 +397,34 @@
             "name": "🚀99鸟叔接口"
         },
         {
-            "url": "https://www.yingm.cc/dm/dm.json",
-            "name": "🚀96动漫城口"
+            "url": "http://47.120.41.246:8025/vip/2501/vip/tv.php",
+            "name": "🚀100OK VIP"
         },
+        {
+            "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json",
+            "name": "🚀101健康接口"
+        },
+        {
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/letian1650/mybox/main/m.json",
+            "name": "🚀102豆瓣接口"
+        },
+ {
+            "url": "",
+            "name": "🚀96"
+        },
+ {
+            "url": "",
+            "name": "🚀96"
+        },
+ {
+            "url": "",
+            "name": "🚀96"
+        },
+ {
+            "url": "",
+            "name": "🚀96"
+        },
+
         {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt",
             "name": "🚀65多源TV"
