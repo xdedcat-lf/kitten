@@ -1,1 +1,17 @@
+{
+    "urls": [
+        {
+            "url": "http://box.ufuzi.com/tv/qq/短剧频道/api.json",
+            "name": "🚀01短剧频道"
+        },
+        {
+            "url": "",
+            "name": "🚀01"
+        }, 
+        {
+            "url": "",
+            "name": "🚀22"
+        }
+    ]
+}
 
