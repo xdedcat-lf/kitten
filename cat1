@@ -6,12 +6,16 @@
         },  
         {
             "url": "http://肥猫.net/",
-            "name": "🚀01肥猫主二"
+            "name": "🚀01肥猫备一"
         },   
         {
             "url": "http://hello.肥猫.net",
-            "name": "🚀01肥猫主三"
+            "name": "🚀01肥猫备二"
         }, 
+        {
+            "url": "https://jk.catvod.site/",
+            "name": "🚀01肥猫备三"
+        },  
         {
             "url": "http://xhztv.top/dc/饭太硬/api.json",
             "name": "🚀02饭太硬一"
@@ -29,16 +33,40 @@
             "name": "🚀02饭太硬四"
         },
         {
-            "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
-            "name": "🚀03王二小一"
+            "url": "http://new.王二小放牛娃.top",
+            "name": "🚀03牛二新接口一"
+        },
+        {
+            "url": "http://new.999888123.xyz",
+            "name": "🚀03牛二新接口二"
+        },
+        {
+            "url": "http://new.999888987.xyz",
+            "name": "🚀03牛二新接口三"
         },
         {
             "url": "https://9280.kstore.vip/newwex.json",
-            "name": "🚀03王二小二"
-        }, 
+            "name": "🚀03牛二新接口四"
+        },
         {
-            "url": "https://9280.kstore.space/newwex.json",
-            "name": "🚀03王二小三"
+            "url": "http://tvbox.王二小放牛娃.top",
+            "name": "🚀03牛二(中文top)"
+        },
+        {
+            "url": "http://tv.999888987.xyz/",
+            "name": "🚀03牛二(1数字xyz)"
+        },
+        {
+            "url": "http://tv.999888123.xyz/",
+            "name": "🚀03牛二(2数字xyz)"
+        },
+        {
+            "url": "https://9280.kstore.vip/wex.json",
+            "name": "🚀03牛二(凯速)"
+        },
+        {
+            "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
+            "name": "🚀03牛二(常规top)"
         },
         {
             "url": "http://摸鱼儿.cc",
