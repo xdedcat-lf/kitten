@@ -37,8 +37,8 @@
             "name": "🚀08天天开心 4K"
         }, 
         {
-            "url": "https://xpb.mhfs.eu.org/ZJ/XPB/api.json",
-            "name": "🚀09XPB 4K"
+            "url": "http://xhztv.top/4k.json",
+            "name": "🚀09聚玩盒子 4K"
         }, 
         {
             "url": "https://play.iptv365.org/%E7%9F%AD%E5%89%A7%E9%A2%91%E9%81%93/api.json",
@@ -199,6 +199,10 @@
         {
             "url": "https://ghproxy.easy666.dpdns.org/https://raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt",
             "name": "🚀47多源版TV 4K"
+        }, 
+        {
+            "url": "https://xpb.mhfs.eu.org/ZJ/XPB/api.json",
+            "name": "🚀48XPB 4K"
         }, 
         {
             "url": "",
