@@ -93,6 +93,10 @@
             "name": "🚀软件小哥"
         },
         {
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/easytv.jpg",
+            "name": "🚀Easy 接口"
+        },
+        {
             "url": "https://ghproxy.net/https://gitlab.com/duomv/dzhipy/-/raw/main/index.json",
             "name": "🚀道长接口"
         },
@@ -273,8 +277,56 @@
             "name": "🚀聚玩盒子"
         }, 
         {
-            "url": "",
-            "name": "🚀"
+            "url": "https://jikefuye.cn/tvbox.json",
+            "name": "🚀卡卡接口"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/maccms2023/tvbox/refs/heads/main/xin.json",
+            "name": "🚀公益接口1"
+        },
+        {
+            "url": " https://raw.githubusercontent.com/maccms2023/tvbox/refs/heads/main/xin.json",
+            "name": "🚀公益接口2"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/maccms2023/tvbox/refs/heads/main/yang.json",
+            "name": "🚀机缘接口"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/maccms2023/tvbox/refs/heads/main/ok.json",
+            "name": "🚀OK接口"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/maccms2023/tvbox/refs/heads/main/qiao.json",
+            "name": "🚀巧记接口"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/maccms2023/tvbox/refs/heads/main/yw.json",
+            "name": "🚀勇往影视接口"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/maccms2023/tvbox/refs/heads/main/99.json",
+            "name": "🚀99影院"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/maccms2023/tvbox/refs/heads/main/7xin.json",
+            "name": "🚀七星影仓"
+        },
+        {
+            "url": ""https://gh-proxy.com/https://raw.githubusercontent.com/maccms2023/tvbox/refs/heads/main/oge.json,
+            "name": "🚀讴歌线路"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/maccms2023/tvbox/refs/heads/main/tw.json",
+            "name": "🚀天微影线"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/maccms2023/tvbox/refs/heads/main/moyu.json",
+            "name": "🚀摸鱼线路"
+        },
+        {
+            "url": " https://gh-proxy.com/https://raw.githubusercontent.com/maccms2023/tvbox/refs/heads/main/quan.json",
+            "name": "🚀全能线路"
         },
         {
             "url": "",
@@ -284,23 +336,6 @@
             "url": "",
             "name": "🚀"
         },
-        {
-            "url": "",
-            "name": "🚀"
-        },
-        {
-            "url": "",
-            "name": "🚀"
-        },
-        {
-            "url": "",
-            "name": "🚀"
-        },
-        {
-            "url": "",
-            "name": "🚀"
-        },
-
         {
             "url": "https://xpb.mhfs.eu.org/ZJ/XPB/api.json",
             "name": "🚀劳思接口"
