@@ -33,6 +33,22 @@
             "name": "🚀王二小放牛娃"
         },
         {
+            "url": "https://0.wudaozhe.net/5/x4.json",
+            "name": "🚀悟道者"
+        },
+        {
+            "url": "https://yc.wya6.cn/wykj.php",
+            "name": "🚀无意云1"
+        },
+        {
+            "url": "https://yc.wya6.cn/wyxs.php",
+            "name": "🚀无意云2"
+        },
+        {
+            "url": "https://cnb.cool/ayrjk/tvbox/-/git/raw/main/api.json",
+            "name": "🚀安忆维护"
+        },
+        {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
             "name": "🚀南风"
         },
@@ -732,11 +748,10 @@
             "url": "",
             "name": "🚀"
         },
- {
+       {
             "url": "",
             "name": "🚀"
         },
-
         {
             "url": "",
             "name": "🚀"
