@@ -8,6 +8,10 @@
             "url": "http://47.96.82.41:5188/svip/svip.json",
             "name": "🚀软件小哥哥"
         },
+        {
+            "url": "https://gitee.com/cycod/tvbox/raw/master/api.json",
+            "name": "🚀初忆"
+        },
         { 
             "url": "https://700sjro44343.vicp.fun/eggp/0211/tv.json",
             "name": "🚀二月红"
