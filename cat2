@@ -1,23 +1,27 @@
 {
     "urls": [
         {
-            "url": "http://肥猫.net/tv",
+            "url": "http://肥猫.net",
             "name": "🚀肥猫主一"
         },  
         {
-            "url": "http://肥猫.net/",
-            "name": "🚀肥猫备一"
+            "url": "http://hello.肥猫.net/",
+            "name": "🚀肥猫主二"
         },   
         {
-            "url": "https://w.junce.dpdns.org/fm.gif",
-            "name": "🚀肥猫备二"
+            "url": "http://hello.肥猫.net/tv",
+            "name": "🚀肥猫主三"
+        },
+        {
+            "url": "http://w.junce.dpdns.org/fm.gif",
+            "name": "🚀肥猫备一"
         }, 
         {
-            "url": "http://xhztv.top/dc/饭太硬/api.json",
+            "url": "http://www.饭太硬.net/tv",
             "name": "🚀饭太硬一"
         },
         {
-            "url": "http://www.饭太硬.net/tv",
+            "url": "http://xhztv.top/dc/饭太硬/api.json",
             "name": "🚀饭太硬二"
         },
         {
@@ -85,6 +89,10 @@
             "name": "🚀摸鱼凯速"
         },
         {
+            "url": "https://9877.kstore.space/sun.json",
+            "name": "🚀潇洒接口"
+        },
+        {
             "url": "http://47.96.82.41:5188/svip/svip.json",
             "name": "🚀软件小哥"
         },
@@ -119,10 +127,6 @@
         {
             "url": "https://9763.kstore.space/aowu.json",
             "name": "🚀嗷呜接口"
-        },
-        {
-            "url": "https://9877.kstore.space/ONE/one.json",
-            "name": "🚀潇洒接口"
         },
         { 
             "url": "https://ysys.lic10.cn/ys/",
