@@ -12,20 +12,60 @@
             "url": "https://gitee.com/cycod/tvbox/raw/master/api.json",
             "name": "🚀初忆"
         },
-        { 
-            "url": "https://700sjro44343.vicp.fun/eggp/0211/tv.json",
-            "name": "🚀二月红"
+        {
+            "url": "http://肥猫.net",
+            "name": "🚀肥猫主一"
+        },
+        {
+            "url": "http://hello.肥猫.net/",
+            "name": "🚀肥猫主二"
+        },
+        {
+            "url": "http://hello.肥猫.net/tv",
+            "name": "🚀肥猫主三"
+        },
+        {
+            "url": "http://w.junce.dpdns.org/fm.gif",
+            "name": "🚀肥猫备一"
         },
         {
             "url": "http://www.y456y.com",
-            "name": "🚀摸鱼儿"
+            "name": "🚀摸鱼主一"
+        },
+        {
+            "url": "http://fish.y456y.com",
+            "name": "🚀摸鱼主二"
+        },
+        {
+            "url": "http://我不是.摸鱼儿.top",
+            "name": "🚀摸鱼备一"
+        },
+        {
+            "url": "http://我不是.小不点.com",
+            "name": "🚀摸鱼备二"
+        },
+        {
+            "url": "http://我不是.摸鱼儿.cc",
+            "name": "🚀摸鱼备三"
+        },
+        {
+            "url": "http://hb.小虎斑.site:25252/仅供测试/",
+            "name": "🚀小虎斑"
+        },
+        {
+            "url": "https://9877.kstore.space/sun.json",
+            "name": "🚀潇洒"
+        },
+        { 
+            "url": "https://700sjro44343.vicp.fun/eggp/0211/tv.json",
+            "name": "🚀二月红"
         },
         {
             "url": "https://9763.kstore.space/aowu.json",
             "name": "🚀嗷呜"
         },
         {
-            "url": "http://www.饭太硬.cc/tv",
+            "url": "http://www.饭太硬.net/tv",
             "name": "🚀饭太硬"
         },
         {
@@ -71,10 +111,6 @@
         {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
             "name": "🚀香雅情"
-        },
-        {
-            "url": "http://xn--z7x900a.net/",
-            "name": "🚀肥猫"
         },
         {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json",
@@ -135,10 +171,6 @@
         {
             "url": "http://xhztv.top/dc/%E7%A5%9E%E4%BB%99/api.json",
             "name": "🚀神仙"
-        },
-        {
-            "url": "https://9877.kstore.space/sun.json",
-            "name": "🚀潇洒"
         },
         {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/%E5%A4%A9%E7%A5%9EIY.json",
