@@ -1,232 +1,160 @@
 {
     "urls": [
         {
-            "url": "https://15318.kstore.space/easytv.jpg",
-            "name": "🚀高清仓库（20261120）"
-        },
-        {
             "url": "https://6800.kstore.vip/fish.json",
             "name": "🚀01摸鱼 4K"
-        },    
+        },
         {
             "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
             "name": "🚀02王二小 4K"
         },
         {
             "url": "https://9280.kstore.vip/newwex.json",
-            "name": "🚀02王二小 4K"
-        }, 
+            "name": "🚀03王二小备用 4K"
+        },
         {
             "url": "https://pan.szfx.top/down.php/daee0d2b5ddbe2de5b2639fe1273b247.json",
-            "name": "🚀03重兴 4K"
-        },  
-        {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/easytv.jpg",
-            "name": "🚀04Easy 4K"
-        },   
+            "name": "🚀04重兴 4K"
+        },
         {
             "url": "https://11405.kstore.space/xiaye/qk4k.json",
             "name": "🚀05夏夏 4K"
-        }, 
-        {
-            "url": "http://8.148.229.212:802/问鼎4k/问鼎4k.jpg",
-            "name": "🚀06问鼎 4K"
-        }, 
-        {
-            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/energy65/yl/refs/heads/main/ylys.epub",
-            "name": "🚀07源力 4K"
-        }, 
+        },
         {
             "url": "https://play.iptv365.org/天天开心/api.json",
-            "name": "🚀08天天开心 4K"
-        }, 
+            "name": "🚀06天天开心 4K"
+        },
         {
             "url": "http://xhztv.top/4k.json",
-            "name": "🚀09聚玩盒子 4K"
-        }, 
+            "name": "🚀07聚玩盒子 4K"
+        },
         {
             "url": "https://play.iptv365.org/%E7%9F%AD%E5%89%A7%E9%A2%91%E9%81%93/api.json",
-            "name": "🚀10短剧 4K"
-        }, 
+            "name": "🚀08短剧 4K"
+        },
         {
             "url": "http://xclasvgas.sylu.net:8080/smt.php",
-            "name": "🚀11月儿 4K"
-        }, 
+            "name": "🚀09月儿 4K"
+        },
         {
             "url": "https://9xi4o.tk/0725.json",
-            "name": "🚀12云盘接口 4K"
-        }, 
+            "name": "🚀10云盘接口 4K"
+        },
         {
             "url": "https://9xi4o.tk/tvbox.json",
-            "name": "🚀13蝶兒飛1 4K"
-        },    
+            "name": "🚀11蝶兒飛1 4K"
+        },
         {
             "url": "https://tv.203511.xyz/0821.json",
-            "name": "🚀14蝶兒飛2 4K"
-        },    
+            "name": "🚀12蝶兒飛2 4K"
+        },
         {
             "url": "https://wget.la/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/lemj.json",
-            "name": "🚀15雷蒙接口 4K"
-        }, 
+            "name": "🚀13雷蒙接口 4K"
+        },
         {
             "url": "https://wp.v6x8.com/down.php/686212a83cc05575a2cb4da72791ad1d.json",
-            "name": "🚀16潇洒天神 4K"
+            "name": "🚀14潇洒天神 4K"
         },
         {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/keluo8824-cell/tvbox/refs/heads/main/yw.json",
-            "name": "🚀17勇往独家 4K"
-        }, 
-        {
-            "url": "http://8.148.229.212:802/幽灵4ks2-a/幽灵4ks2.jpg",
-            "name": "🚀18幽灵 4K"
-        }, 
-        {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/easytv.jpg",
-            "name": "🚀19Easy 4K"
-        }, 
+            "name": "🚀15勇往独家 4K"
+        },
         {
             "url": "http://150.158.52.248/tgyg/bbm.json",
-            "name": "🚀20微风的小星 4K"
+            "name": "🚀16微风的小星 4K"
         },
         {
             "url": "https://8988.kstore.space/huige/wei-jing/WJYY.json",
-            "name": "🚀21味精 4K"
+            "name": "🚀17味精 4K"
         },
         {
             "url": "http://nn.4688888.xyz/common.json",
-            "name": "🚀22未知 4K"
-        }, 
+            "name": "🚀18未知 4K"
+        },
         {
             "url": "https://gb.hfr1107.top/raw.githubusercontent.com/taotaochengcheng/ys/refs/heads/main/cheng.json",
-            "name": "🚀23cheng 4K"
-        }, 
-       {
+            "name": "🚀19cheng 4K"
+        },
+        {
             "url": "https://qist.ugigc.dpdns.org/jsm.json",
-            "name": "🚀24未知1 4K"
-        }, 
+            "name": "🚀20未知1 4K"
+        },
         {
             "url": "http://rihou.cc:88/demo.php",
-            "name": "🚀25未知2 4K"
-        }, 
-        {
-            "url": "https://ghproxy.easy666.dpdns.org/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/easytv.jpg",
-            "name": "🚀26未知3 4K"
-        }, 
+            "name": "🚀21未知2 4K"
+        },
         {
             "url": "https://gh-proxy.org/https://raw.githubusercontent.com/tushen6/Tattoo/refs/heads/main/OK/okys.json",
-            "name": "🚀27未知4 4K"
-        }, 
+            "name": "🚀22未知4 4K"
+        },
         {
             "url": "http://www.英格里希嗷呜.top/tv",
-            "name": "🚀28未知5 4K"
-        }, 
+            "name": "🚀23未知5 4K（中文域名，兼容性差）"
+        },
         {
             "url": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/fxapi.json",
-            "name": "🚀29未知6 4K"
-        }, 
+            "name": "🚀24未知6 4K"
+        },
         {
             "url": "https://kong88.dpdns.org/4k.json",
-            "name": "🚀30未知7 4K"
-        }, 
-        {
-            "url": "https://16151.kstore.space",
-            "name": "🚀31未知8 4K"
-        }, 
-        {
-            "url": "https://iduo.us.ci/gt/leevi0709/one/main/config.bin",
-            "name": "🚀31未知9 4K"
-        }, 
+            "name": "🚀25空空 4K"
+        },
         {
             "url": "http://hb.xn--yet24tmq1a.site:25252/仅供测试",
-            "name": "🚀32未知10 4K"
-        }, 
-        {
-            "url": "https://ghproxy.easy666.dpdns.org/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/easytv.jpg",
-            "name": "🚀33未知11 4K"
-        }, 
+            "name": "🚀26未知10 4K"
+        },
         {
             "url": "http://fty.xxooo.cf/tv",
-            "name": "🚀34未知12 4K"
-        }, 
+            "name": "🚀27未知12 4K"
+        },
         {
             "url": "http://hb.小虎斑.site:25252/仅供测试",
-            "name": "🚀35未知13 4K"
-        }, 
-        {
-            "url": "https://xiuxiu-pro-new.meitudata.com/ai_quality/7229a17c9559861fd1e65272e0738a82.png",
-            "name": "🚀36未知14 4K"
-        }, 
-        {
-            "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
-            "name": "🚀37未知15 4K"
-        }, 
-        {
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/天神IY.png",
-            "name": "🚀38未知16 4K"
-        }, 
-        {
-            "url": "https://bjq.catvod.site/",
-            "name": "🚀39未知17 4K"
-        }, 
+            "name": "🚀28未知13 4K（中文域名，兼容性差）"
+        },
         {
             "url": "https://file.alexlin1688.top/my_file/tvbox/alexlin_db06/ok_m01.json",
-            "name": "🚀40未知18 4K"
-        }, 
+            "name": "🚀29未知18 4K"
+        },
         {
             "url": "https://700sjro44343.vicp.fun/eggp/qzku/tv.json",
-            "name": "🚀41未知19 4K"
-        }, 
+            "name": "🚀30未知19 4K"
+        },
         {
             "url": "http://枫斗.top/tv",
-            "name": "🚀42未知20 4K"
-        }, 
+            "name": "🚀31未知20 4K"
+        },
         {
             "url": "https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg2",
-            "name": "🚀43未知21 4K"
-        }, 
-        {
-            "url": "http://v-dragon.com.hk/4k/",
-            "name": "🚀43未知22 4K"
-        }, 
-        {
-           "url": "https://11405.kstore.space/xiaye/qk4k.json",
-            "name": "🚀44未知23 4K"
-        }, 
+            "name": "🚀32未知21 4K"
+        },
         {
             "url": "https://tv.xn--yhqu5zs87a.top",
-            "name": "🚀45未知24 4K"
-        }, 
+            "name": "🚀33未知24 4K"
+        },
         {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json",
-            "name": "🚀46未知25 4K"
-        }, 
+            "name": "🚀34未知25 4K"
+        },
         {
             "url": "https://ghproxy.easy666.dpdns.org/https://raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt",
-            "name": "🚀47多源版TV 4K"
-        }, 
+            "name": "🚀35多源版TV 4K（txt直播源）"
+        },
         {
             "url": "https://xpb.mhfs.eu.org/ZJ/XPB/api.json",
-            "name": "🚀48XPB 4K"
-        }, 
-        {
-            "url": "https://kong88.dpdns.org/4k.json",
-            "name": "🚀空空 4K"
-        }, 
+            "name": "🚀36XPB 4K"
+        },
         {
             "url": "http://宝盒接口.top",
-            "name": "🚀宝盒 4K"
-        }, 
+            "name": "🚀37宝盒 4K"
+        },
         {
             "url": "http://116.196.116.76/tv",
-            "name": "🚀星河 4K"
-        }, 
-        {
-            "url": "http://xhztv.top/4k.json",
-            "name": "🚀小盒子 4K"
-        }, 
+            "name": "🚀38星河 4K"
+        },
         {
             "url": "http://825826.xyz:666/tvbox/TYY2/SS.txt",
-            "name": "🚀47未知26 4K"
+            "name": "🚀39未知26 4K（txt直播源）"
         }
     ]
 }
