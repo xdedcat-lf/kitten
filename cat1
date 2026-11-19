@@ -2,28 +2,24 @@
     "urls": [
         {
             "url": "https://15318.kstore.space/easytv.jpg",
-            "name": "🚀更新于2026年11月18日"
+            "name": "🚀更新于2026年11月20日"
         },
         {
             "url": "https://15318.kstore.space/easytv.jpg",
-            "name": "🚀Easy主力仓"
+            "name": "🚀Easy主力"
         },
         {
             "url": "http://47.96.82.41:5188/svip/svip.json",
-            "name": "🚀软件小哥哥"
-        },
-        {
-            "url": "https://gitee.com/cycod/tvbox/raw/master/api.json",
-            "name": "🚀初忆"
+            "name": "🚀软件小哥"
         },
         {
             "url": "http://肥猫.net",
             "name": "🚀肥猫主一"
-        },
+        },  
         {
             "url": "http://hello.肥猫.net/",
             "name": "🚀肥猫主二"
-        },
+        },   
         {
             "url": "http://hello.肥猫.net/tv",
             "name": "🚀肥猫主三"
@@ -31,7 +27,7 @@
         {
             "url": "http://w.junce.dpdns.org/fm.gif",
             "name": "🚀肥猫备一"
-        },
+        }, 
         {
             "url": "http://www.y456y.com",
             "name": "🚀摸鱼主一"
@@ -53,44 +49,92 @@
             "name": "🚀摸鱼备三"
         },
         {
-            "url": "http://hb.小虎斑.site:25252/仅供测试/",
-            "name": "🚀小虎斑"
-        },
-        {
-            "url": "https://9877.kstore.space/sun.json",
-            "name": "🚀潇洒"
-        },
-        {
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/yw.json",
-            "name": "🚀心魔"
-        },
-        {
-            "url": "https://szyyds.cn/tv/x.json",
-            "name": "🚀小马"
-        },
-        {
-            "url": "http://www.饭太硬.art/tv",
-            "name": "🚀饭太硬"
-        },
-        { 
-            "url": "https://700sjro44343.vicp.fun/eggp/0211/tv.json",
-            "name": "🚀二月红"
-        },
-        {
-            "url": "https://jihulab.com/jyqhkd1/kai/-/raw/main/机缘巧盒凯弟.json",
-            "name": "🚀凯弟1线"
-        },
-        {
-            "url": "https://9763.kstore.space/aowu.json",
-            "name": "🚀嗷呜"
+            "url": "https://6800.kstore.vip/fish.json",
+            "name": "🚀摸鱼凯速"
         },
         {
             "url": "http://www.饭太硬.net/tv",
-            "name": "🚀饭太硬"
+            "name": "🚀饭太硬一"
+        },
+        {
+            "url": "http://xhztv.top/dc/饭太硬/api.json",
+            "name": "🚀饭太硬二"
+        },
+        {
+            "url": "http://www.饭太硬.art/tv",
+            "name": "🚀饭太硬三"
+        },
+        {
+            "url": "http://fty.xxooo.cf/tv",
+            "name": "🚀饭太硬四"
+        },
+        {
+            "url": "http://new.王二小放牛娃.top",
+            "name": "🚀牛二新一"
+        },
+        {
+            "url": "http://new.999888123.xyz",
+            "name": "🚀牛二新二"
+        },
+        {
+            "url": "http://new.999888987.xyz",
+            "name": "🚀牛二新三"
+        },
+        {
+            "url": "https://9280.kstore.vip/newwex.json",
+            "name": "🚀牛二新四"
         },
         {
             "url": "http://tvbox.王二小放牛娃.top",
-            "name": "🚀王二小放牛娃"
+            "name": "🚀牛二中文"
+        },
+        {
+            "url": "http://tv.999888987.xyz/",
+            "name": "🚀牛二数字1"
+        },
+        {
+            "url": "http://tv.999888123.xyz/",
+            "name": "🚀牛二数字2"
+        },
+        {
+            "url": "https://9280.kstore.vip/wex.json",
+            "name": "🚀牛二凯速"
+        },
+        {
+            "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
+            "name": "🚀牛二常规"
+        },
+        {
+            "url": "https://gitee.com/cycod/tvbox/raw/master/api.json",
+            "name": "🚀初忆接口"
+        },
+        {
+            "url": "http://hb.小虎斑.site:25252/仅供测试/",
+            "name": "🚀小虎斑口"
+        },
+        {
+            "url": "https://9877.kstore.space/sun.json",
+            "name": "🚀潇洒接口"
+        },
+        {
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/yw.json",
+            "name": "🚀心魔接口"
+        },
+        {
+            "url": "https://szyyds.cn/tv/x.json",
+            "name": "🚀小马接口"
+        },
+        { 
+            "url": "https://700sjro44343.vicp.fun/eggp/0211/tv.json",
+            "name": "🚀二月红口"
+        },
+        {
+            "url": "https://jihulab.com/jyqhkd1/kai/-/raw/main/机缘巧盒凯弟.json",
+            "name": "🚀凯弟一线"
+        },
+        {
+            "url": "https://9763.kstore.space/aowu.json",
+            "name": "🚀嗷呜接口"
         },
         {
             "url": "http://www.cttv.vip/ys/json/ctys.json",
@@ -98,15 +142,15 @@
         },
         {
             "url": "https://0.wudaozhe.net/5/x4.json",
-            "name": "🚀悟道者"
+            "name": "🚀悟道者口"
         },
         {
             "url": "https://yc.wya6.cn/wykj.php",
-            "name": "🚀无意云1"
+            "name": "🚀无意云一"
         },
         {
             "url": "https://yc.wya6.cn/wyxs.php",
-            "name": "🚀无意云2"
+            "name": "🚀无意云二"
         },
         {
             "url": "https://cnb.cool/ayrjk/tvbox/-/git/raw/main/api.json",
@@ -114,15 +158,15 @@
         },
         {
             "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg",
-            "name": "🚀裤佬"
+            "name": "🚀裤佬接口"
         },
         {
             "url": "https://gh-proxy.com/raw.githubusercontent.com/zhoujck/config/main/box",
-            "name": "🚀周J"
+            "name": "🚀周J接口"
         },
         {
             "url": "https://tv.蜗牛.top/svip",
-            "name": "🚀蜗牛"
+            "name": "🚀蜗牛接口"
         },
         {
             "url": "https://0.12yue.de5.net/0/666",
@@ -130,23 +174,23 @@
         },
         {
             "url": "https://raw.githubusercontent.com/dxawi/0/main/0.json",
-            "name": "🚀Ray"
+            "name": "🚀Ray接口"
         },
         {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-            "name": "🚀南风"
+            "name": "🚀南风接口"
         },
         {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
-            "name": "🚀香雅情"
+            "name": "🚀香雅情口"
         },
         {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json",
-            "name": "🚀拾光"
+            "name": "🚀拾光接口"
         },
         {
             "url": "https://tv.菜妮丝.top",
-            "name": "🚀莱妮丝"
+            "name": "🚀莱妮丝口"
         },
         {
             "url": "https://play.iptv365.org/天天开心/api.json",
@@ -154,7 +198,7 @@
         },
         {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/refs/heads/main/api/tao.json",
-            "name": "🚀涛"
+            "name": "🚀涛哥接口"
         },
         {
             "url": "https://play.iptv365.org/%E7%9F%AD%E5%89%A7%E9%A2%91%E9%81%93/api.json",
@@ -170,7 +214,7 @@
         },
         {
             "url": "https://盒子迷.top/禁止贩卖",
-            "name": "🚀盒子迷"
+            "name": "🚀盒子迷口"
         },
         {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/jigedos/1024/master/jsm.json",
@@ -186,7 +230,7 @@
         }, 
         {
             "url": "https://11465.kstore.space/%E8%87%AA%E8%90%A5/TVBoxOSC/tvbox/%E8%83%96%E8%99%8E.json",
-            "name": "🚀胖虎"
+            "name": "🚀胖虎接口"
         },
         {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
@@ -194,19 +238,19 @@
         },
         {
             "url": "https://tv.sxi.qzz.io/jsm.json",
-            "name": "🚀jsm"
+            "name": "🚀jsm接口"
         },
         {
             "url": "http://xhztv.top/dc/%E7%A5%9E%E4%BB%99/api.json",
-            "name": "🚀神仙"
+            "name": "🚀神仙接口"
         },
         {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/%E5%A4%A9%E7%A5%9EIY.json",
-            "name": "🚀天神IY"
+            "name": "🚀天神接口"
         },
         {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json",
-            "name": "🚀宝盒"
+            "name": "🚀宝盒接口"
         },
         {
             "url": "https://dxawi.github.io/0/0.json",
@@ -222,15 +266,15 @@
         },
         {
             "url": "https://11405.kstore.space/xiaye/qk4k.json",
-            "name": "🚀夏夏"
+            "name": "🚀夏夏接口"
         },
         {
             "url": "http://zhangqun1818.serv00.net/zq/api.json",
-            "name": "🚀张群"
+            "name": "🚀张群接口"
         },
         {
             "url": "https://tv.203511.xyz/0821.json",
-            "name": "🚀无名3"
+            "name": "🚀无名接口"
         },
         {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/catcr.json",
@@ -246,7 +290,7 @@
         },
         {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/ysj.json",
-            "name": "🚀荷城"
+            "name": "🚀荷城接口"
         },
         {
             "url": "https://tv.蜗牛.top/svip",
@@ -258,15 +302,15 @@
         },
         {
             "url": "http://nn.4688888.xyz/common.json",
-            "name": "🚀牛马"
+            "name": "🚀牛马接口"
         },
         {
             "url": "https://jihulab.com/xuanzhuapp/xzys/-/raw/main/xzvip.json",
-            "name": "🚀玄珠"
+            "name": "🚀玄珠接口"
         },
         {
             "url": "https://jihulab.com/jyqhkd/kd/-/raw/main/kai.json",
-            "name": "🚀凯弟"
+            "name": "🚀凯弟接口"
         },
         {
             "url": "http://cnmb.cc.cd/jk/xnf.json",
@@ -274,27 +318,27 @@
         },
         {
             "url": "https://www.252035.xyz/z/FongMi.json",
-            "name": "🚀真心"
+            "name": "🚀真心接口"
         },
         {
             "url": "https://gitee.com/wynp/ys/raw/master/yc.json",
-            "name": "🚀如意"
+            "name": "🚀如意接口"
         },
         {
             "url": "http://home.jundie.top:81/top98.json",
-            "name": "🚀俊于"
+            "name": "🚀俊于接口"
         },
         {
             "url": "https://cnb.cool/cnlv/tv/-/git/raw/main/20000.json",
-            "name": "🚀平安"
+            "name": "🚀平安接口"
         },
         {
             "url": "https://700sjro44343.vicp.fun/eggp/0211/tv.json",
-            "name": "🚀eggp"
+            "name": "🚀eggp接口"
         },
         {
             "url": "https://www.iyouhun.com/tv/ys",
-            "name": "🚀游魂"
+            "name": "🚀游魂接口"
         },
         {
             "url": "https://wp.v6x8.com/down.php/686212a83cc05575a2cb4da72791ad1d.json",
@@ -314,23 +358,19 @@
         },
         {
             "url": "https://gitlab.hk/iii/qq/-/raw/main/20.json",
-            "name": "🚀豆豆"
+            "name": "🚀豆豆接口"
         },
         {
             "url": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjys.free.json",
-            "name": "🚀黄金"
+            "name": "🚀黄金接口"
         },
         {
             "url": "https://api.hgyx.vip/hgyx.json",
             "name": "🚀嗨哥魔改"
         },
         {
-            "name": "老御推荐↓",
+            "name": "老御推荐",
             "url": "https://u2.fukit.cn/tngeeZel4"
-        },
-        {
-            "name": "小虎斑|自制",
-            "url": "https://aly2.tuchuangyun.top/autoupload/3wmba/other/tv/tigers/tvbox.json"
         },
         {
             "name": "御制(无采集)-加速|自制",
