@@ -13,10 +13,6 @@
             "name": "🚀02软件小哥"
         },
         {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/vcloudc/tvbox/main/tw/api.json",
-            "name": "🚀03毛驴接口"
-        },
-        {
             "url": "http://肥猫.net",
             "name": "🚀04肥猫主一"
         },
@@ -107,6 +103,18 @@
         {
             "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
             "name": "🚀26牛二常规"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/Inliang/tvbox/main/zijian.json",
+            "name": "🚀26自建接口"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/Inliang/tvbox/main/zijian-full.json",
+            "name": "🚀26自建接口"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/vcloudc/tvbox/main/tw/api.json",
+            "name": "🚀03毛驴接口"
         },
         {
             "url": "https://gitee.com/cycod/tvbox/raw/master/api.json",
